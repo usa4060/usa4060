@@ -7,11 +7,13 @@
 <img src="https://img.shields.io/badge/flutter-50bcdf?style=flat&logo=Flutter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/iOS-ffffff?style=flat&logo=Apple&logoColor=000000"/>
 <br/>
 <img src="https://img.shields.io/badge/FireBase-1299F3?style=flat&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/Figma-696969?style=flat&logo=Figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Linux-222222?style=flat&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>
 
 </div>
 
