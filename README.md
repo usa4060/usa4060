@@ -1,19 +1,25 @@
+
+
 <div align="center">
 
-
-I'm Yongin Jo who is interested in IOS Development & Flutter
-
-  
-:computer:    Now I'm studying in...  
+🛠 **My Tech Stacks** 🛠  
   
 <img src="https://img.shields.io/badge/flutter-50bcdf?style=flat&logo=Flutter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=ffffff"/>
 <br/>
 <img src="https://img.shields.io/badge/FireBase-1299F3?style=flat&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/Figma-696969?style=flat&logo=Figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Linux-222222?style=flat&logo=Linux&logoColor=FCC624"/>
+
+</div>
 
 <br/><br/>
+
+:boy: **Who Am I** (As of 2022)
+ - I'm Yongin Jo who is interested in IOS Development & Flutter
+ - Inha.Univ / Computer Science Engineering
 
 :pencil2: Now My Stats...  
 <br/>
@@ -34,5 +40,3 @@ SNS: <a href="https://www.instagram.com/ni.__.10.50/" target="_blank"><img src="
 Project: <a href="https://github.com/usa4060" target="_blank"><img src="https://img.shields.io/badge/MyGithub-696969?style=flat&logo=GitHub&logoColor=181717"/></a>
 <br/>
 E-Mail: <img src="https://img.shields.io/badge/yongin9805@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=EA4335"/></a> <img src="https://img.shields.io/badge/cocoa9805@naver.com-ffffff?style=flat&logo=Naver&logoColor=03C75A"/></a>
-
-</div>
