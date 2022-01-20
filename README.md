@@ -26,7 +26,7 @@
 
 :pencil2: Now My Stats...  
 <br/>
-![Usa4060's GitHub stats](https://github-readme-stats.vercel.app/api?username=usa4060&show_icons=true&theme=midnight-purple)  
+![ni.__.10.50's GitHub stats](https://github-readme-stats.vercel.app/api?username=usa4060&show_icons=true&theme=midnight-purple)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=usa4060)  
 <br/>
 :pencil2: The langs I'm using...  
