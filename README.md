@@ -20,7 +20,7 @@
 <br/><br/>
 
 :boy: **Who Am I** (As of 2022)
- - I'm Yongin Jo who is interested in IOS Development & Flutter
+ - I'm Yongin Jo who is interested in iOS Development & Flutter
  - Inha.Univ / Computer Science Engineering
 <br/><br/>
 
