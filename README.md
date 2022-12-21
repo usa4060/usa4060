@@ -24,6 +24,14 @@
  - Inha.Univ / Computer Science Engineering
 <br/><br/>
 
+💻 **Introduce My Project....**
+|프로젝트 이름|기간|설명|
+|------|---|---|
+|Rising Camp 6th - iOS|2022-05 ~ 2022-06|소프트스퀘어드 주관 라이징캠프 iOS파트 수료기록|
+|오늘의 조약돌|2022-08 ~ 2022-11|수익형 앱 런칭 동아리 CMC-11th iOS파트|
+
+<br/><br/>
+
 :pencil2: Now My Stats...  
 <br/>
 ![ni.__.10.50's GitHub stats](https://github-readme-stats.vercel.app/api?username=usa4060&show_icons=true&theme=midnight-purple)  
