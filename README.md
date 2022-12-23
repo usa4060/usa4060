@@ -17,7 +17,7 @@
 
 💻 **Experiences....**
 <br/><br/>
-🍎 Rising Camp 6th (iOS 파트) 2022.05 ~ 2022.06 <br/>
+🍎 Rising Camp 6th 수료 (iOS 파트) 2022.05 ~ 2022.06 <br/>
 🏅 CMC 11th 오늘의 조약돌 (iOS 개발) 2022.08 ~ 2022.11<br/>
 🚀 CMC 12th 운영진 (iOS파트장) 2022.12 ~ 2023.02<br/>
 
