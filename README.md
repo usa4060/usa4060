@@ -14,7 +14,7 @@
 
 ## Projects
 > 2023
-* [U're: 편지]() (iOS Developer) : 나의 그리운 인연에게 띄워보내는 유리병 편지 <span style="background-color:yellow">(PM 1 / Designer 1 / Server 2 / AOS 1 / iOS 1 )</span>
+* [U're: 편지]() (iOS Developer) : 그리운 나의 인연에게 띄워보내는 유리병 편지 <span style="background-color:yellow">(PM 1 / Designer 1 / Server 2 / AOS 1 / iOS 1 )</span>
 * [플레어즈]() (iOS Developer) : 웹툰 여행자를 위한 종착역 웹툰 플랫폼 <span style="background-color yellow">(PM 1 / Designer 1 / Server 3 / Web 3 / AOS 1 / iOS 1)</span>
 
 > 2022
