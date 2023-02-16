@@ -1,30 +1,53 @@
 
+# YongIn Jo(Siri)
+### Student & iOS Developer
 
-<div align="center">
+## Profile
+### Education
+인하대학교 컴퓨터공학과<br>
 
-🛠 **My Tech Stacks** 🛠  
-  
-<img src="https://img.shields.io/badge/flutter-50bcdf?style=flat&logo=Flutter&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/>
-<img src="https://img.shields.io/badge/iOS-ffffff?style=flat&logo=Apple&logoColor=000000"/>
-<br/>
-<img src="https://img.shields.io/badge/FireBase-1299F3?style=flat&logo=Firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Figma-696969?style=flat&logo=Figma&logoColor=F24E1E"/>
+## Tech Stack
+<p align="left">
+<img src="https://img.shields.io/badge/Swift-F05138?style=rounded-square&logo=Swift&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/iOS-000000?style=rounded-square&logo=Apple&logoColor=white"/></a> &nbsp
 
 
+## Projects
+> 2023
+* [U're: 편지]() (iOS Developer) : 우리의 그리운 인연에게 띄워보내는 유리병 편지 
+* [플레어즈]() (iOS Developer) : 웹툰 여행자를 위한 종착역 웹툰 플랫폼 (외주 프로젝트)
 
-<br/><br/>
+> 2022
+* [오늘의 조약돌](https://github.com/TeamHaruPuppy/Pebbles) (iOS Developer) : 목표를 이루는 하루를 만들어주는 2H1T 서비스 (Central MakeUs Challenge - 11th )
+* [ideus - Clone Coding](https://github.com/usa4060/idus_ios_siri-) (iOS Developer) : 아이디어스 앱 클론 코딩 (BackEnd와 협업 프로젝트)
 
-💻 **Experiences....**
-<br/><br/>
-🍎 Rising Camp 6th 수료 (iOS 파트) 2022.05 ~ 2022.06 <br/>
-🏅 CMC 11th 오늘의 조약돌 (iOS 개발) 2022.08 ~ (현재 리팩토링 진행 중)<br/>
-🚀 CMC 12th 운영진 (iOS파트장) 2022.12 ~ 2023.02<br/>
+## Experience
+> 2023
+- [iOS App 개발 외주 #1]() (웹툰 여행자를 위한 종착역 웹툰 플랫폼) : '플레어즈' iOS파트 개발 
+- [볼트마이크로 (카메라파이 라이브)](https://vaultmicro.com/) (라이브스트리밍 서비스 개발팀) : iPP 인턴쉽 - 라이브 스트리밍 iOS앱 개발
+- [Central MakeUs Challenge](https://www.makeus.in/cmc) (수익형 앱 런칭 동아리) : CMC - 12th iOS 파트장
+> 2022
+- [Central MakeUs Challenge](https://www.makeus.in/cmc) (수익형 앱 런칭 동아리) : CMC - 11th iOS 파트 수료
+- [라이징캠프 6th - iOS파트](https://github.com/usa4060/RisingCamp-6th) (소프트스퀘어드 주관 RisingCamp-6th) : iOS파트 수료
 
-<br/><br/>
+### Internship
+<p>
+	
+</p>
 
-:pencil2: Now My Stats...  
-<br/>
-![ni.__.10.50's GitHub stats](https://github-readme-stats.vercel.app/api?username=usa4060&show_icons=true&theme=midnight-purple)   
-<br/><br/>
- 
+### Community
+
+<p>
+	
+</p>
+
+### Projects in 2022
+
+<p>
+	<!-- 이미지&링크 예시
+	<a href="https://github.com/TeamDearToday/Deartoday-Android">
+		<img width="100" src="https://user-images.githubusercontent.com/81508084/206861925-e2bda85d-7c30-4c27-a9c0-7fc5836dbeb9.png">&nbsp;&nbsp;
+	</a>
+	<--
+	
+</p>
