@@ -15,11 +15,11 @@
 ## Projects
 > 2023
 * [U're: 편지]() (iOS Developer) : 나의 그리운 인연에게 띄워보내는 유리병 편지 <span style="background-color:yellow">(PM 1 / Designer 1 / Server 2 / AOS 1 / iOS 1 )</span>
-* [플레어즈]() (iOS Developer) : 웹툰 여행자를 위한 종착역 웹툰 플랫폼 <span style="background-color: yellow">(PM 1 / Designer 1 / Server 3 / Web 3 / AOS 1 / iOS 1)</span>
+* [플레어즈]() (iOS Developer) : 웹툰 여행자를 위한 종착역 웹툰 플랫폼 <span style="background-color yellow">(PM 1 / Designer 1 / Server 3 / Web 3 / AOS 1 / iOS 1)</span>
 
 > 2022
-* [오늘의 조약돌](https://github.com/TeamHaruPuppy/Pebbles) (iOS Developer) : 목표를 이루는 하루를 만들어주는 2H1T 서비스 <span style="background-color: yellow">(PM 1 / Designer 1 / Server 1 / AOS 1 / iOS 1)</span>
-* [ideus - Clone Coding](https://github.com/usa4060/idus_ios_siri-) (iOS Developer) : 아이디어스 앱 클론 코딩 <span style="background-color: yellow">(Server 1 / iOS 1)</span>
+* [오늘의 조약돌](https://github.com/TeamHaruPuppy/Pebbles) (iOS Developer) : 목표를 이루는 하루를 만들어주는 2H1T 서비스 <span style="background-color:yellow">(PM 1 / Designer 1 / Server 1 / AOS 1 / iOS 1)</span>
+* [ideus - Clone Coding](https://github.com/usa4060/idus_ios_siri-) (iOS Developer) : 아이디어스 앱 클론 코딩 <span style="background-color:yellow">(Server 1 / iOS 1)</span>
 
 ## Experience
 > 2023
