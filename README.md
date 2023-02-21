@@ -23,7 +23,7 @@
 
 ## Experience
 > 2023
-- [iOS App 개발 외주 #1]() (웹툰 여행자를 위한 종착역 웹툰 플랫폼) : '플레어즈' iOS앱 개발
+- [iOS App 개발 외주 #1]() (웹툰 여행자를 위한 종착역 웹툰 플랫폼) : '플레어즈' iOS 개발
 - [볼트마이크로 (카메라파이 라이브)](https://vaultmicro.com/) (라이브스트리밍 서비스 개발팀) : iPP 인턴쉽 - 라이브 스트리밍 iOS앱 개발
 - [Central MakeUs Challenge](https://www.makeus.in/cmc) (수익형 앱 런칭 동아리) : CMC - 12th iOS 파트장
 
